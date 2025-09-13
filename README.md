@@ -35,7 +35,7 @@
 
 ###
 
-//<p align="left">I'm Achmad Aidhil from West Sulawesi<br><br>- 🔭 I’m a student<br>- 📚 I'm currently learning web development<br>- ⚡ In my free time I sleep</p>
+<p align="left">Nothing</p>
 
 ###
 
